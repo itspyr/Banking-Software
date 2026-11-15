@@ -1,4 +1,4 @@
 package com.revature.bank.model;
 
-public class Transation {
+public class Transaction {
 }
